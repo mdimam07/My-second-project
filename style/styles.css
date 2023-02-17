@@ -224,3 +224,18 @@ margin-right: 689px;
     margin-top: 55px;
     margin-left: 240px;
  }
+ footer{
+    width: 1440px;
+height: 100px;
+    font-weight: 400;
+font-size: 20px;
+text-align: center;
+color: #424242;
+padding: 39px 410px;
+background: #FFF4E7;
+border-radius: 8px;
+margin-top: 127px;
+margin-right: 240px;
+margin-left: 240px;
+margin-bottom: 216px;
+ }
